@@ -1,8 +1,35 @@
 ids,labels,parents
 AAXIS,AAXIS,
 custom-software-development,Custom Software Development,AAXIS
-Design,Design,AAXIS
+design,Design,AAXIS
 advisory-services,Advisory Services,AAXIS
 managed-services,Managed Services,AAXIS
 digital-commerce,Digital Commerce,AAXIS
 data-ai,Data and AI,AAXIS
+custom-micro-services,Custom Micro services,custom-software-development
+desktop-apps,Desktop Responsive web applications,custom-software-development
+mobile-apps,Mobile Apps (iOS & Android),custom-software-development
+ux-design,UX Design,design
+info-arch,Information Architecture,design
+dsm,Design system and UI kit,design
+ui-impl,UI buildout,design
+mobile-app-design,Mobile App design,design
+usability-testing,Usability Testing,design
+arch-adv,Architecture Audit and Advisory,advisory-services
+platform-selection,Platform Selection,advisory-services
+comm-rfp,Digital Commerce RFP,advisory-services
+comm-adoption,Digital Commerce Adoption,advisory-services
+ai-poc,AI POC and adoption,advisory-services
+b2b,B2B Commerce,digital-commerce
+b2c,B2C Commerce,digital-commerce
+gen-ai,Generative AI,data-ai
+ml,Machine Learning,data-ai
+analytics,Web and App Analytics,data-ai
+lake,Data warehouse/ Data lake,data-ai
+infra,Infrastructure support Onprem and Cloud,managed-services
+security,Cyber Security,managed-services
+klo,Keep Lights On,managed-services
+breakfix,Breakfix and hotpacthing,managed-services
+end-user-support,End User support L1 & L2,managed-services
+dev-sec-ops,DevSecOps,managed-services
+monitoring,Proactive monitoring and alerting,managed-services
