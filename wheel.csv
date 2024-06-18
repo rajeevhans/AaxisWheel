@@ -22,6 +22,14 @@ comm-adoption,Digital Commerce Adoption,advisory-services
 ai-poc,AI POC and adoption,advisory-services
 b2b,B2B Commerce,digital-commerce
 b2c,B2C Commerce,digital-commerce
+omni-comm,Omni channel Commerce ,digital-commerce
+punchout,Punchout,b2b
+bopis,"By anywhere, Ship or Pickup anywhere",b2c
+p17n,Personalization,b2c
+accounts,Multi level accounts and users,b2b
+ciam,Identity and Access Management,b2c
+search,Search and guided navigation,b2c
+search,Search and guided navigation,b2b
 gen-ai,Generative AI,data-ai
 ml,Machine Learning,data-ai
 analytics,Web and App Analytics,data-ai
