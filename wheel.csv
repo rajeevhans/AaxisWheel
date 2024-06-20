@@ -44,4 +44,4 @@ klo,Keep Lights On,managed-services
 breakfix,Breakfix and hotpatching,managed-services
 end-user-support,End User support L1 & L2,managed-services
 dev-sec-ops,DevSecOps,managed-services
-sre, Site Reliability Engineering monitoring,managed-services
+sre,Site Reliability Engineering,managed-services
