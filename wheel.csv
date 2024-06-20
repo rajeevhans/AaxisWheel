@@ -29,8 +29,10 @@ bopis,"By anywhere, Ship or Pickup anywhere",b2c
 p17n,Personalization,b2c
 accounts,Multi level accounts and users,b2b
 ciam,Identity and Access Management,b2c
-search,Search and guided navigation,b2c
-search,Search and guided navigation,b2b
+search-b2c,Search and guided navigation,b2c
+search-b2b,Search and guided navigation,b2b
+cms-b2c,Content Management System,b2c
+cms-b2b,Content Management System,b2b
 b2b-pricing,B2B Pricing,b2b
 gen-ai,Generative AI,data-ai
 ml,Machine Learning,data-ai
