@@ -15,11 +15,26 @@ dsm,Design system and UI kit,design
 ui-impl,UI buildout,design
 mobile-app-design,Mobile App design,design
 usability-testing,Usability Testing,design
-arch-adv,Architecture Audit and Advisory,advisory-services
-platform-selection,Platform Selection,advisory-services
-comm-rfp,Digital Commerce RFP,advisory-services
-comm-adoption,Digital Commerce Adoption,advisory-services
-ai-poc,AI POC and adoption,advisory-services
+tech-adv,Technical & Architecture advisory,advisory-services
+biz-opts,Digital commerce business optimization advisory,advisory-services
+ai-adv,Application of AI ,advisory-services
+ux-adv,Design and UX advisory,advisory-services
+b2b-empower,B2B empowerment ,advisory-services
+tech-org-change,Technology Org Impact,advisory-services
+platform-adv,Platform selection advisory,tech-adv
+search-adv,Search and discovery advisory,tech-adv
+arch-adv,Architecture advisory,tech-adv
+cloud-adv,Cloud adoption and optimization advisory,tech-adv
+security-adv,Security advisory,tech-adv
+p17n-adv,Personalization advisory,biz-opts
+conv-opt-adv,Conversion optimization advisory,biz-opts
+ab-testing-adv,A/B testing advisory,biz-opts
+ai-starting-adv,Getting started with AI in your org,ai-adv
+ai-org-adv,Impact of AI on your organization,ai-adv
+ai-diff-adv,How to differentiate your business with AI,ai-adv
+cloud-org-adv,How cloud changes your org,tech-org-change
+ai-org-adv,How AI changes your org,tech-org-change
+composable-org-adv,How composable changes your org,tech-org-change
 b2b,B2B Commerce,digital-commerce
 b2c,B2C Commerce,digital-commerce
 omni-comm,Omni channel Commerce ,digital-commerce
