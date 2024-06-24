@@ -41,20 +41,24 @@ b2b,B2B Commerce,digital-commerce
 b2c,B2C Commerce,digital-commerce
 omni-comm,Omni channel Commerce ,digital-commerce
 oms,Order Management System,digital-commerce
+search,AI based Search and site discover,digital-commerce
+cms,CMS and DAM,digital-commerce
 punchout,Punchout,b2b
-bopis,"By anywhere, Ship or Pickup anywhere",b2c
-p17n,Personalization,b2c
-accounts,Multi level accounts and users,b2b
-ciam,Identity and Access Management,b2c
-search-b2c,Search and guided navigation,b2c
+accounts,B2B Accounts and users,b2b
+ciam-b2b,Identity and Access Management,b2b
 search-b2b,Search and guided navigation,b2b
-cms-b2c,Content Management System,b2c
 cms-b2b,Content Management System,b2b
 b2b-pricing,B2B Pricing,b2b
+bopis,"By anywhere, Ship or Pickup anywhere",b2c
+p17n,Personalization,b2c
+ciam-b2c,Identity and Access Management,b2c
+search-b2c,Search and guided navigation,b2c
+cms-b2c,Content Management System,b2c
 gen-ai,Generative AI,data-ai
 ml,Machine Learning,data-ai
 analytics,Web and App Analytics,data-ai
 lake,Data warehouse/ Data lake,data-ai
+pim-mdm,PIM & MDM,data-ai
 infra,Infrastructure support Onprem and Cloud,managed-services
 security,Cyber Security,managed-services
 klo,Keep Lights On,managed-services
