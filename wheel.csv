@@ -1,4 +1,5 @@
 ids,labels,parents
+AAXIS,AAXIS,
 custom-software-development,Custom Software Development,AAXIS
 design,Design,AAXIS
 advisory-services,Advisory Services,AAXIS
@@ -8,6 +9,8 @@ data-ai,Data and AI,AAXIS
 custom-micro-services,Custom Micro services,custom-software-development
 desktop-apps,Desktop Responsive web applications,custom-software-development
 mobile-apps,Mobile Apps (iOS & Android),custom-software-development
+integration-services,Integration Services,custom-software-development
+mw-services,Middleware Services,custom-software-development
 ux-design,UX Design,design
 info-arch,Information Architecture,design
 dsm,Design system and UI kit,design
