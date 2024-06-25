@@ -6,6 +6,11 @@ advisory-services,Advisory Services,AAXIS
 managed-services,Managed Services,AAXIS
 digital-commerce,Digital Commerce,AAXIS
 data-ai,Data and AI,AAXIS
+gen-ai,Generative AI,AAXIS
+co-pilot-gen-ai,Co Pilot,gen-ai
+merch-automation-gen-ai,Merchandizer Automation,gen-ai
+marketing-automation-gen-ai,Marketing Automation,gen-ai
+audit-comp-gen-ai,Audit compliance,gen-ai
 custom-micro-services,Custom Micro services,custom-software-development
 desktop-apps,Desktop Responsive web applications,custom-software-development
 mobile-apps,Mobile Apps (iOS & Android),custom-software-development
@@ -41,7 +46,7 @@ b2b,B2B Commerce,digital-commerce
 b2c,B2C Commerce,digital-commerce
 omni-comm,Omni channel Commerce ,digital-commerce
 oms,Order Management System,digital-commerce
-search,AI based Search and site discover,digital-commerce
+search,AI Search and discovery,digital-commerce
 cms,CMS and DAM,digital-commerce
 punchout,Punchout,b2b
 accounts,B2B Accounts and users,b2b
@@ -54,7 +59,6 @@ p17n,Personalization,b2c
 ciam-b2c,Identity and Access Management,b2c
 search-b2c,Search and guided navigation,b2c
 cms-b2c,Content Management System,b2c
-gen-ai,Generative AI,data-ai
 ml,Machine Learning,data-ai
 analytics,Web and App Analytics,data-ai
 lake,Data warehouse/ Data lake,data-ai
